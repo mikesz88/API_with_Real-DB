@@ -1,0 +1,20 @@
+{
+  "name": "Module 14 Final Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.9",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1234567890,
+    "firstName": "Michael",
+    "lastName": "Sanchez",
+    "createdOn": "3/24/2022",
+    "grade": 82,
+    "classes": [
+      "Math",
+      "Reading",
+      "Science",
+      "Social Studies",
+      "Language Arts",
+      "Programming",
+      "Coding"
+    ],
+    "updatedOn": "2022-03-26T04:41:32.074Z"
+  },
+  {
+    "id": 2340845484,
+    "firstName": "Lisa",
+    "lastName": "Sullivan",
+    "createdOn": "2022-03-25T17:16:04.620Z",
+    "grade": 92,
+    "classes": [
+      "Art",
+      "Math",
+      "Band"
+    ],
+    "updatedOn": "2022-03-25T17:18:15.684Z"
+  },
+  {
+    "id": 7717806674,
+    "firstName": "Lily",
+    "lastName": "Sofia",
+    "createdOn": "2022-03-25T17:16:32.287Z",
+    "grade": 80,
+    "classes": [
+      "Reading",
+      "Math",
+      "Science",
+      "Band"
+    ],
+    "updatedOn": "2022-03-25T17:18:32.237Z"
+  },
+  {
+    "id": 4788766703,
+    "firstName": "Mila",
+    "lastName": "Rae",
+    "createdOn": "2022-03-25T17:17:26.141Z",
+    "grade": 70,
+    "classes": [
+      "Reading",
+      "Math",
+      "Language Arts",
+      "Art"
+    ],
+    "updatedOn": "2022-03-25T17:18:51.534Z"
+  },
+  {
+    "id": 3696479615,
+    "firstName": "Remi",
+    "lastName": "Luna",
+    "createdOn": "2022-03-25T17:19:43.937Z",
+    "updatedOn": "",
+    "grade": 75,
+    "classes": [
+      "Social Studies",
+      "Art",
+      "Band",
+      "Language Arts"
+    ]
+  },
+  {
+    "id": 257942488,
+    "firstName": "Remi",
+    "lastName": "Luna",
+    "createdOn": "2022-03-26T03:48:57.912Z",
+    "updatedOn": "",
+    "grade": 75,
+    "classes": [
+      "Social Studies",
+      "Art",
+      "Band",
+      "Language Arts"
+    ]
+  }
+]
