@@ -2,6 +2,7 @@ const express = require('express');
 const dotenv = require('dotenv');
 const morgan = require('morgan'); //middleware
 const connectDB = require('./config/db');
+const path = require('path') // module path
 
 
 // Route files
