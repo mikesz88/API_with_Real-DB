@@ -21,6 +21,10 @@ if (process.env.NODE_ENV === 'development') {
   app.use(morgan('dev'));
 };
 
+//Static Path -- index
+app.use(express.static(path.join(__dirname, 'public')));
+
+// Mount Routers
 app.use('/api/v1/students', students);
 
 
